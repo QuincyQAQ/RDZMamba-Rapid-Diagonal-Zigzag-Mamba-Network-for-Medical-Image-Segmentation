@@ -55,7 +55,7 @@ Alternatively, you can use Autodl to quickly get started. Select `state-spaces/m
 
 ## 3. Train the RDZMamba
 ```bash
-cd RDZMamba
+cd RDZMamba-Rapid-Diagonal-Zigzag-Mamba-Network-for-Medical-Image-Segmentation-master
 python train.py  # Train and test RDZMamba on the ISIC17 or ISIC18 dataset.
 python train_synapse.py  # Train and test RDZMamba on the Synapse dataset.
 ```
