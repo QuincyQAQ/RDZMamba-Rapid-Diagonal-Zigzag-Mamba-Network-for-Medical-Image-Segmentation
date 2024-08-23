@@ -1,8 +1,6 @@
 # [RDZMamba](https://github.com/lzeeorno/RDZMamba-Rapid-Diagonal-Zigzag-Mamba-Network-for-Medical-Image-Segmentation)
 
-## Installation 
-
-Requirements: `Ubuntu 20.04`, `CUDA 11.8`
+## 0. Main Environments
 
 ```bash
 conda create -n vmunet python=3.8
