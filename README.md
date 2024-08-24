@@ -3,8 +3,8 @@
 ## 0. Main Environments
 
 ```bash
-conda create -n vmunet python=3.8
-conda activate vmunet
+conda create -n your_environment_name python=3.8
+conda activate your_environment_name
 pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
 pip install packaging
 pip install timm==0.4.12
